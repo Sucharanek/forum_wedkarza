@@ -171,4 +171,3 @@ def health():
     return 'OK', 200
 
 
-app.run(host = "0.0.0.0")
